@@ -2,7 +2,7 @@
 
 ## Steps for VIM Configurations
 
-- Clond dotfiles
+- Install dotfiles
 ```
 $ cd ~
 $ git clone https://github.com/kamalkgarg/dotfiles.git
